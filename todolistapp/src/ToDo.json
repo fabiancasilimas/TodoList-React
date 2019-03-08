@@ -1,0 +1,34 @@
+{
+    "ToDo": [
+        {
+            "title": "Task 1",
+            "responnsible": "Carlos",
+            "description": "lorem ipsum",
+            "priority": "low"
+        },
+        {
+            "title": "Task 2",
+            "responnsible": "Pepe",
+            "description": "lorem ipsum",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 3",
+            "responnsible": "Muchi",
+            "description": "lorem ipsum",
+            "priority": "high"
+        },
+        {
+            "title": "Task 4",
+            "responnsible": "Maria",
+            "description": "lorem ipsum",
+            "priority": "low"
+        },
+        {
+            "title": "Task 5",
+            "responnsible": "Juan",
+            "description": "lorem ipsum",
+            "priority": "low"
+        }
+    ]
+}
