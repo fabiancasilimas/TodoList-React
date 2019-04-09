@@ -14,19 +14,19 @@
         },
         {
             "title": "Task 3",
-            "responnsible": "Muchi",
+            "responnsible": "Fabian",
             "description": "lorem ipsum",
             "priority": "high"
         },
         {
             "title": "Task 4",
-            "responnsible": "Maria",
+            "responnsible": "Stevens",
             "description": "lorem ipsum",
             "priority": "low"
         },
         {
             "title": "Task 5",
-            "responnsible": "Juan",
+            "responnsible": "Pablo",
             "description": "lorem ipsum",
             "priority": "low"
         }
